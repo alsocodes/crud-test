@@ -6,3 +6,5 @@ Clone this project https://github.com/alsocodes/crud-test.git, enter to director
 The dump db also awailable, please import it first.
 
 for documentation, go to this link https://documenter.getpostman.com/view/2198742/UUxxgoM9.
+
+Video documentation of using this project is here https://youtu.be/xBHjxtK5P1o
